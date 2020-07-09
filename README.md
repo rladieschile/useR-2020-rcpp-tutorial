@@ -1,1 +1,31 @@
-# useR-2020-rcpp-tutorial
+# useR! 2020 online tutorial: "Seamless R and C++ Integration with Rcpp"
+
+Hi everyone!
+
+The first useR! 2020 online tutorial is coming next Tuesday (July 14th), at 15:00 UTC. The RLadies chapters and R User Group form Chile are happy to announce that [Dirk Eddelbuettel](https://dirk.eddelbuettel.com/) will be joining us to run his tutorial "Seamless R and C++ Integration with Rcpp".
+
+
+You can sign up through any of this links:
+
+* [RLadies Santiago](https://www.meetup.com/es/rladies-scl/events/271780707/)
+* [RLadies Valparaíso](https://www.meetup.com/es/rladies-valparaiso/events/271780670/)
+* [RLadies Concepción](https://www.meetup.com/es/rladies-concepcion/events/271781596/)
+* [R User Group in Santiago](https://www.meetup.com/es/useRchile/events/271781094/)
+
+
+More about useR! 2020 tutorials: https://user2020.r-project.org/program/tutorials/
+
+# tutorial online de useR! 2020: "Seamless R and C++ Integration with Rcpp"
+
+
+¡Hola!
+La próxima semana empiezan los tutoriales en línea de useR! 2020. Los capítulos de RLadies + el grupo de usuarios de R de Chile recibirán a Dirk Eddelbuettel y su tutorial: "Seamless R and C++ Integration with Rcpp". El tutorial se realizará entre las 15:00 y 17:00 UTC. 
+
+Pueden unirse a través de cualquiera de estos enlaces:
+
+* [RLadies Santiago](https://www.meetup.com/es/rladies-scl/events/271780707/)
+* [RLadies Valparaíso](https://www.meetup.com/es/rladies-valparaiso/events/271780670/)
+* [RLadies Concepción](https://www.meetup.com/es/rladies-concepcion/events/271781596/)
+* [R User Group in Santiago](https://www.meetup.com/es/useRchile/events/271781094/)
+
+Si quieres saber más sobre los otros tutoriales de la edición 2020 de useR!, visita este enlace: https://user2020.r-project.org/program/tutorials/
