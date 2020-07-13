@@ -2,7 +2,7 @@
 
 The first [useR! 2020](https://user2020.r-project.org/) online tutorial is coming next Tuesday (July 14th), at 15:00 UTC. The RLadies chapters and R User Group form Chile are happy to announce that [Dirk Eddelbuettel](https://dirk.eddelbuettel.com/) will be joining us to run his tutorial "Seamless R and C++ Integration with Rcpp".
 
-You can sign up through any of this links:
+You can sign up through any of these links:
 
 * [RLadies Santiago](https://www.meetup.com/es/rladies-scl/events/271780707/)
 * [RLadies Valparaíso](https://www.meetup.com/es/rladies-valparaiso/events/271780670/)
